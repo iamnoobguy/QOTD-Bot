@@ -1,2 +1,2 @@
-# physbot3
-Physbot
+# QOTD Bot
+QOTDBot
